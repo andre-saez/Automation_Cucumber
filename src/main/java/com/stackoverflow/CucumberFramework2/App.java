@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World7" );
         System.out.println( "Nova tarefa" );
+        System.out.println( "Nova tarefa2" );
+        System.out.println( "Bug Fix" );
     }
 }
