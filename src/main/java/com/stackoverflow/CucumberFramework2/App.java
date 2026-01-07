@@ -12,5 +12,6 @@ public class App
         System.out.println( "Nova tarefa" );
         System.out.println( "Nova tarefa2" );
         System.out.println( "Bug Fix" );
+        System.out.println( "Teste de cola" );
     }
 }
